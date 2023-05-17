@@ -68,8 +68,8 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = VERDADERO
+2) (6! =6) && (12>22)) = FALSO
+4) ¬ (128<145 && 12>9) = VERDADERO
+5) “Daniela”< >”DANIELA” = FALSO
+7) 10*20< >210 = VERDADERO

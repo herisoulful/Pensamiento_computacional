@@ -53,6 +53,8 @@ baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
       TU RESPUESTA AQUI
+      
+      (2-1) OR (3>0)
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:

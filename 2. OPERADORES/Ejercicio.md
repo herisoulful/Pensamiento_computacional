@@ -61,6 +61,7 @@ resuelve:
 mayor que “F”. ¿Cuál es el menor de todos?
 
       TU RESPUESTA AQUI
+      G
 
 3^2 – (10/(8-4))+9 > 100 
 

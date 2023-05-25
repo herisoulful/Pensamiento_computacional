@@ -8,14 +8,14 @@ Algoritmo sin_titulo
 	
 	Leer nombre
 	
-	Escribir "Ingresa el año actual"
+	Escribir "Ingresa el aÃ±o actual"
 	Leer anio_actual
 	
 	
 	Longitud(anio_act) = 4 Entonces
 		
 		Si ConvertirANumero(anio_act) < 2030 Y ConvertirANumero(anio_act) > 2023
-			Escribir "Ingresa tu año de nacimiento"
+			Escribir "Ingresa tu aÃ±o de nacimiento"
 			Leer anio_nac
 			Si Longitud(anio_nac) = 4 Entonces
 				Si ConvertirANumero(anio_nac) < 2013 Y ConvertirANumero(anio_nac) > 1930
@@ -39,16 +39,16 @@ Algoritmo sin_titulo
 		
 		
 	SiNo
-		Escribir "Año incorrecto"
+		Escribir "AÃ±o incorrecto"
 	FinSi
 SiNo
-	Escribir "Formato de año incorrecto"
+	Escribir "Formato de aÃ±o incorrecto"
 Fin Si
 SiNo 
-	Escribir "año no soportado por el programa"
+	Escribir "aÃ±o no soportado por el programa"
 FinSi
 SiNo
-	Escribir "Formato incorrecto de año"
+	Escribir "Formato incorrecto de aÃ±o"
 FinSi
 
  

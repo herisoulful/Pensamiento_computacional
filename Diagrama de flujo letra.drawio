@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" modified="2023-05-30T16:15:57.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SuuKPQpKbusgMqE8BHHz" version="21.3.4" type="device">
+  <diagram name="Página-1" id="vwJzsaky7tqHEBdGBehY">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-2" target="yaw2M-xUwcH0_9nB9LMC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-2" target="yaw2M-xUwcH0_9nB9LMC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-2" value="Letra (char)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-4" target="yaw2M-xUwcH0_9nB9LMC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-4" value="&lt;br&gt;&quot;Ingresa una letra&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-5" value="Letra" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-6" target="yaw2M-xUwcH0_9nB9LMC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-6" value="letra == &quot;a&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-13" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-7" target="yaw2M-xUwcH0_9nB9LMC-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-7" value="&lt;br&gt;&quot;la letra&quot;, letra, &quot;es una vocal y es la a&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-16" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-15" target="yaw2M-xUwcH0_9nB9LMC-6">
+          <mxGeometry x="0.234" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="585" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-17" target="yaw2M-xUwcH0_9nB9LMC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-17" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-18" target="yaw2M-xUwcH0_9nB9LMC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-18" value="letra (char)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-20" target="yaw2M-xUwcH0_9nB9LMC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-20" value="&quot;Ingresa una letra&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-21" target="yaw2M-xUwcH0_9nB9LMC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-21" value="letra" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-24" value="letra" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-29" target="yaw2M-xUwcH0_9nB9LMC-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-29" value="letra, &quot;es vocal y es la a&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-32" value="letra, &quot;es vocal y es la e&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-35" target="yaw2M-xUwcH0_9nB9LMC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-35" value="letra, &quot;es vocal y es la i&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="625" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yaw2M-xUwcH0_9nB9LMC-36" target="yaw2M-xUwcH0_9nB9LMC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yaw2M-xUwcH0_9nB9LMC-36" value="letra, &quot;es vocal y es la o&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="625" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,13 @@
+
+*variable contador:
+
+sintáxis
+convención
+
+ciclo for: cuando sabemos cuántas veces se va a ejecutar
+ciclo while: no sabemos cuántas veces se va a repetir
+ciclo dowhile: se ejecuta aunque no haya u
+
+variable local: afectará a un segmento o burbujita
+
+variable global: 

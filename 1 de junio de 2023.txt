@@ -1,0 +1,6 @@
+
+while: validación y luego ejecutar
+
+do while: ejecuta y luego valida
+
+qhg-ndgs-idq
